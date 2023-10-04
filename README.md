@@ -1,16 +1,9 @@
-# flutter_news_app1
+The screenshots are attached below:
 
-A new Flutter project.
 
-## Getting Started
+<img src="https://github.com/Ambikesh28/Daily-News/assets/84287526/9172cb04-011c-4652-a95f-a11ea087bfcf" width="300" height="500">
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img src="https://github.com/Ambikesh28/Daily-News/assets/84287526/61779ce3-3f4a-4486-ab65-a4030aa290bf" width="300" height="500">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
